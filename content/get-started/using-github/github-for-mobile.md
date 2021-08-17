@@ -63,7 +63,7 @@ If you no longer need to access data for your user account on {% data variables.
 - Brazilian Portuguese
 - Simplified Chinese
 - Spanish
-
+- Čeština
 If you configure the language on your device to a supported language, {% data variables.product.prodname_mobile %} will default to the language. You can change the language for {% data variables.product.prodname_mobile %} in {% data variables.product.prodname_mobile %}'s **Settings** menu.
 
 ## Managing Universal Links for {% data variables.product.prodname_mobile %} on iOS
